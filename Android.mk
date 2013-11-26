@@ -529,6 +529,7 @@ LOCAL_SRC_FILES += \
 	src/opts/SkBlitRow_opts_arm_neon.cpp \
 	src/opts/ext/S32_Opaque_D32_filter_DX_shaderproc_neon.cpp \
     src/core/asm/SkBlitter_RGB16_NEON.S
+	src/opts/ext/S32_Opaque_D32_filter_DX_shaderproc_neon.cpp
 endif
 
 LOCAL_SRC_FILES += \
